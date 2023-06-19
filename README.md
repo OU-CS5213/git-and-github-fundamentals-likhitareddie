@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QfxW72RH)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QfxW72RH)  
+A README file is an essential component of a GitHub repository. It serves as the first point of contact for users and potential contributors to understand what the project is about and how to use it effectively. The README file plays a crucial role in providing information, context, and instructions related to the repository.  
